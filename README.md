@@ -7,6 +7,6 @@ SIFT's LEGEND system provides a means to employ Large Language Models and Induct
 Available here are:
 
 * The [LEGEND user manual](legend_user_manual.pdf)
-* Ergo files for the soccer warmup problem
-* Ergo files for the joint operation problem
+* [Ergo files for the soccer warmup problem](soccer-team-warmup.zip)
+* [Ergo files for the joint operation problem](joint-command.zip)
 
