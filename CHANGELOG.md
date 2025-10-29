@@ -1,3 +1,9 @@
+# 2025.10.3
+
+- Fixed bug relating to query binding results.
+
+- Fixed rule naming bug.
+
 # 2025.10.2
 
 - Add guidance field allowing users to provide directions to the LM in addition
