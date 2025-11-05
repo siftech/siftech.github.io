@@ -1,3 +1,15 @@
+# 2025.11.0
+
+- Address bug that prevented raw Ergo from being displayed in some cases (!220).
+
+- Improve case handling for predicate/rule names (!217).
+
+- Improve handling of knowledge base information. Addresses bugs relating to
+  various sequences of adding and removing bouts, background, and other ergo
+  elements (!215, !216, !219).
+
+- Re-prompt LLM for query-extraction when parsing fails (!214).
+
 # 2025.10.3
 
 - Fixed bug relating to query binding results.
