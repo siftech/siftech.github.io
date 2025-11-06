@@ -1,3 +1,7 @@
+# 2025.11.1
+
+- Fix regression in frame editor (!222, !223).
+
 # 2025.11.0
 
 - Address bug that prevented raw Ergo from being displayed in some cases (!220).
