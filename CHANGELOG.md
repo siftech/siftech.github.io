@@ -1,3 +1,7 @@
+# 2025.11.2
+
+- Cache link predicates to improve UI responsiveness (!226).
+
 # 2025.11.1
 
 - Fix regression in frame editor (!222, !223).
